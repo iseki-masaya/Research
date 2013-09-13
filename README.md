@@ -3,7 +3,7 @@ Research
 
 SOA内の解析用ソース
 
-*Research
+#Research
 基本的な計算のためのライブラリ
-*Calc
+#Calc
 各種計算の処理
